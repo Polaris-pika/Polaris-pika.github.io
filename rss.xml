@@ -10,18 +10,118 @@
         </author>
         <description>让所有习惯黑暗的眼睛，看见光</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 26 Mar 2023 22:43:48 +0800</pubDate>
-        <lastBuildDate>Sun, 26 Mar 2023 22:43:48 +0800</lastBuildDate>
+        <pubDate>Sat, 01 Apr 2023 14:44:42 +0800</pubDate>
+        <lastBuildDate>Sat, 01 Apr 2023 14:44:42 +0800</lastBuildDate>
         <category term="前端" />
         <category term=" React" />
         <category term=" 全栈" />
+        <item>
+            <guid isPermalink="true">https://polaris-pika-github-io-ltg5.vercel.app/</guid>
+            <title></title>
+            <link>https://polaris-pika-github-io-ltg5.vercel.app/</link>
+            <pubDate>Sat, 01 Apr 2023 14:44:42 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;今天和桌游群的米娜桑一起去恰了饭，并且看了龙与地下城的电影，我感觉还蛮好看的说实话，然后昨天简单下载了一个虚拟机。&lt;/p&gt;
+&lt;h1 id=&#34;vmware&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vmware&#34;&gt;#&lt;/a&gt; vmware&lt;/h1&gt;
+&lt;h2 id=&#34;vmware16的下载与安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vmware16的下载与安装&#34;&gt;#&lt;/a&gt; vmware16 的下载与安装&lt;/h2&gt;
+&lt;p&gt;我之前跟的那个教程给的和用的是 vmware15.5 的文件，这个版本强烈不推荐用，因为我用它的时候一旦我开启虚拟机的时候他就蓝屏（嘎嘎蓝），我感觉可能的问题是因为自己内核隔离没有关闭（我的还是正在运行）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/2fcfb7ac9cf087c1391cb024624b1ca.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;不过我并没有去解决这个 bug，因为我升级到了 vmware16.0，然后他就解决了....nice！&lt;/p&gt;
+&lt;p&gt;然后这里附上 vmware 的下载链接，当然你要是害怕我分享的是流氓软件也可以去官网自己搜&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;链接：链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVdreko4QWQwQVVGSGNYeHNIQTlpTXc=&#34;&gt;https://pan.baidu.com/s/1WkzJ8Ad0AUFHcXxsHA9iMw&lt;/span&gt; &amp;lt;br/&amp;gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;提取码：ttws&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;这里需要去开启一下你的一个 BIOS 的虚拟化设备支持，这个百度经验里就有，可以自行百度（我的本来就是开着的，跳过了这步），想看的你的 BIOS 虚拟化是不是开着可以 ctrl+art+del 打开任务管理器，性能 -&amp;gt;cpu 里面看&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/cfcb1cec385299451c2f6f26a10ef1a.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里显示已启用，那么你就可以跳过这一步了。&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;strong&gt;然后基本就是一个无情下一步的过程，需要注意的点有两个，一个是下载路径要改一下（你要是想下载到 c 盘也可以无脑过）&lt;/strong&gt;&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/e3a45068150ff2901495d7ac50e7f9b.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后这里的两个对勾记得取消掉。&lt;/p&gt;
+&lt;p&gt;安装成功之后点击许可证。（这里借用的 15.5 的图，实际应该是 16.0）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/fa08b7c8eae8030770d093d51bedce8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里你可以选择直接百度一个就好了，基本都是可以用的，当然你要是特别懒我可以给你百度好放这里（你想花钱自己买一个也可以）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ZF3R0-FHED2-M80TY-8QYGC-NPKYF*&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;YF390-0HF8P-M81RQ-2DXQE-M2UT6&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ZF71R-DMX85-08DQY-8YMNC-PPHV8&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后就完成啦&lt;/p&gt;
+&lt;h2 id=&#34;虚拟机的安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#虚拟机的安装&#34;&gt;#&lt;/a&gt; 虚拟机的安装&lt;/h2&gt;
+&lt;p&gt;有很多虚拟机的版本你都是可以选择的，我这里安装的是一个 centos7.6 的老系统学习用（甚至都停服了），所以就只演示这个了，其他版本的系统方法也是类似的，百度找个镜像源下载一个就可以了。&lt;/p&gt;
+&lt;p&gt;VMware 左上角文件 -&amp;gt; 新建虚拟机 -&amp;gt; 先无脑下一步&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/0b7f44f60d2c61f4bdf0b2971988d8e.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这里你可以选择操作系统和版本，因为我这里的 centos 是 Red Hat 编译重构的一个社区开源版本所以直接选择这个版本就好了。&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;&lt;strong&gt;下一步让你修改虚拟机的名称和下载位置，有需要的记得改一下&lt;/strong&gt;&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;下一步，需要你给你的虚拟机如果你磁盘充足的话。可以直接过，如果不是那么充足的话可以稍微压缩一点空间（扩展也没问题）选择将虚拟磁盘拆分成多个文件 -&amp;gt; 下一步。&lt;/p&gt;
+&lt;p&gt;现在就可以配置虚拟机的硬件内容了，根据自己的电脑实际情况和需要进行选择&lt;/p&gt;
+&lt;h3 id=&#34;配置虚拟机内存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置虚拟机内存&#34;&gt;#&lt;/a&gt; 配置虚拟机内存&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/162399643334d049a39d383be5693a0.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;配置处理器-分配的处理器内核多虚拟机速度快&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置处理器-分配的处理器内核多虚拟机速度快&#34;&gt;#&lt;/a&gt; 配置处理器， &lt;strong&gt;分配的处理器内核多，虚拟机速度&lt;/strong&gt;快&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/f658b622ba3decf4ab0e3341f900fb4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后你可以根据自己母机的处理器来实际选择，如果你不知道的话可以根据以下方法查看：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;右键点击左下角的 Window 菜单图标，找到计算机管理&lt;/li&gt;
+&lt;li&gt;点进设备管理器&lt;/li&gt;
+&lt;li&gt;点进处理器即可&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;网络适配器用nat模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络适配器用nat模式&#34;&gt;#&lt;/a&gt; 网络适配器用 NAT 模式&lt;/h3&gt;
+&lt;p&gt;然后就完成了&lt;/p&gt;
+&lt;h3 id=&#34;选择cddvd路径&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择cddvd路径&#34;&gt;#&lt;/a&gt; 选择 CD/DVD 路径&lt;/h3&gt;
+&lt;p&gt;首先需要下载一下映像文件，你可以选择自己找镜像网下载（不过好像都下了），也可以下载我的链接&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMWhJUktPb2owbTdXLTZZY2FHd2F5ZHc=&#34;&gt;https://pan.baidu.com/s/1hIRKOoj0m7W-6YcaGwaydw&lt;/span&gt; &amp;lt;br/&amp;gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;提取码：mghv&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;点击你刚刚创建好的虚拟机，设备里面选择 CD/DVD（SATA）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/ab7d0ca940c2db5e283c1ed0af9f365.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;选择你刚刚下载的文件的路径就好了&lt;/p&gt;
+&lt;h3 id=&#34;开启虚拟机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开启虚拟机&#34;&gt;#&lt;/a&gt; 开启虚拟机&lt;/h3&gt;
+&lt;p&gt;选择第一个 Install Centos7，语言选择中文（你也可以选择英文）&lt;/p&gt;
+&lt;p&gt;选择安装软件，默认是最小化安装，可以根据你自己的需要进行安装，你安装好之后有需要也可以重新安装，所以问题不大。这里我选择了 GNOME 桌面，并且勾选了两个兼容库和基本开发工具&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/c4f61bf51b5adcf4636e0b61db07f40.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装位置进行分区操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装位置进行分区操作&#34;&gt;#&lt;/a&gt; 安装位置，进行分区操作&lt;/h3&gt;
+&lt;p&gt;其他存储选项 -&amp;gt; 我要配置分区&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先指定 /boot  分区，即引导分区，大小为 1G, 然后&lt;strong&gt;点击添加挂载点&lt;/strong&gt;。设备类型选择&lt;strong&gt;标准分区&lt;/strong&gt; -&amp;gt; 文件系统选择&lt;strong&gt; ext4&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;指定 swap 分区，大小为 2G 然后&lt;strong&gt;点击添加挂载点&lt;/strong&gt;。设备类型选择&lt;strong&gt;标准分区&lt;/strong&gt; -&amp;gt; 文件系统选择&lt;strong&gt; swap&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;指定 / 分区，大小为剩下的容量&lt;strong&gt;点击添加挂载点&lt;/strong&gt;。设备类型选择&lt;strong&gt;标准分区&lt;/strong&gt; -&amp;gt; 文件系统选择 ext4。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;完成 -&amp;gt; 接受更改&lt;/p&gt;
+&lt;p&gt;KDUMP 根据需要自行选择勾不勾选。&lt;/p&gt;
+&lt;h3 id=&#34;设置网络和主机名-安装好后也可以设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置网络和主机名-安装好后也可以设置&#34;&gt;#&lt;/a&gt; 设置网络和主机名，安装好后也可以设置&lt;/h3&gt;
+&lt;p&gt;打开以太网的链接，起一个主机名，然后安装就可以了&lt;/p&gt;
+&lt;h3 id=&#34;root密码和创建用户&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#root密码和创建用户&#34;&gt;#&lt;/a&gt; Root 密码和创建用户&lt;/h3&gt;
+&lt;p&gt;设置 Root 密码（高权限），然后创建一个用户（默认用的是这个低权限的用户操作），也可以安装成功后，再创建。&lt;/p&gt;
+&lt;p&gt;重启一下，接受许可证（必须接受）&lt;/p&gt;
+&lt;p&gt;默认以普通用户登录就行，你也可以切换成 root, 点击未列出，用户名 root，输入密码&lt;/p&gt;
+&lt;p&gt;选择语言 -&amp;gt; 无脑前进&lt;/p&gt;
+&lt;p&gt;这里你可以连接你的在线账号，不连接你可以直接跳过&lt;/p&gt;
+&lt;p&gt;然后你就创建好了！&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://polaris-pika-github-io-ltg5.vercel.app/hexo-%E5%A4%9A%E6%80%81/</guid>
             <title>多态</title>
             <link>https://polaris-pika-github-io-ltg5.vercel.app/hexo-%E5%A4%9A%E6%80%81/</link>
             <category term="语言" scheme="https://polaris-pika-github-io-ltg5.vercel.app/categories/%E8%AF%AD%E8%A8%80/" />
-            <category term="笔记" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E7%AC%94%E8%AE%B0/" />
             <category term="java" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/java/" />
+            <category term="笔记" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E7%AC%94%E8%AE%B0/" />
             <pubDate>Sun, 26 Mar 2023 22:43:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;之前用的破解版的 typora 总是因为一些原因寄掉（偶尔不实时显示什么的，我又比较喜欢这个 typora 简洁的界面），所以就斥巨资买了正版的 typora（终于可以更新最新版本了！但是真的好贵啊！！！），为了不让这笔钱打水漂所以我这里立刻 —— 新换了一个 typora 自定义主题（你别说挺好看的）&lt;/p&gt;
 &lt;p&gt;最近看一个代码的时候突然在一个向上转型上面迷了一会，今天决定复习并且总结一下多态及其相关的内容&lt;/p&gt;
@@ -54,7 +154,7 @@
 &lt;/ul&gt;
 &lt;p&gt;以下实例创建了 displayObjectClass () 方法来演示 Java instanceof 关键字用法：&lt;/p&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; args&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token class-name&#34;&gt;Object&lt;/span&gt; testObject &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;ArrayList&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token function&#34;&gt;displayObjectClass&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;testObject&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;displayObjectClass&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Object&lt;/span&gt; o&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;o &lt;span class=&#34;token keyword&#34;&gt;instanceof&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Vector&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;对象是 java.util.Vector 类的实例&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;o &lt;span class=&#34;token keyword&#34;&gt;instanceof&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;ArrayList&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;对象是 java.util.ArrayList 类的实例&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;      &lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;对象是 &#34;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; o&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;getClass&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34; 类的实例&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;代码运行输出结果为：&lt;/p&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;对象是 &lt;span class=&#34;token class-name&#34;&gt;&lt;span class=&#34;token namespace&#34;&gt;java&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;util&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;/span&gt;ArrayList&lt;/span&gt; 类的实例&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h4 id=&#34;动态规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动态规划&#34;&gt;#&lt;/a&gt; 动态规划&lt;/h4&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;对象是 &lt;span class=&#34;token class-name&#34;&gt;&lt;span class=&#34;token namespace&#34;&gt;java&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;util&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;/span&gt;ArrayList&lt;/span&gt; 类的实例&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h3 id=&#34;动态规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动态规划&#34;&gt;#&lt;/a&gt; 动态规划&lt;/h3&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Mose&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;extends&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Animal&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;那如果我们有一个新的子类继承了 Animal&lt;/p&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;animal &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Mose&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;animal&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;shout&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 动物在叫&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;如果你的子类并没有重写父类的某个方法，那么调用的时候时候会从子类到父类到父类的父类到.... 里面找对应的方法，直到找到然后调用（没找到？没找到报错呗）&lt;/p&gt;
 &lt;p&gt;这里跟你有没有向上转型关系不大，就是从子类开始找。&lt;/p&gt;
@@ -66,8 +166,8 @@
             <title>基础适用</title>
             <link>https://polaris-pika-github-io-ltg5.vercel.app/hexo-markdown-ues/</link>
             <category term="工具" scheme="https://polaris-pika-github-io-ltg5.vercel.app/categories/tools/" />
-            <category term="Markdown" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/Markdown/" />
             <category term="笔记" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E7%AC%94%E8%AE%B0/" />
+            <category term="Markdown" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/Markdown/" />
             <pubDate>Fri, 04 Nov 2022 00:26:56 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;简要介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简要介绍&#34;&gt;#&lt;/a&gt; 😂 简要介绍&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; 是一种轻量型标记语言，是一种语法。以  &lt;code&gt;.md&lt;/code&gt;  结尾的文本文件就是 Markdown 文件。相较于 &lt;strong&gt;Word&lt;/strong&gt;, 它更加像是 &lt;strong&gt;HTML&lt;/strong&gt; 语言或是 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;LaTeX&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\LaTeX&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.89883em;vertical-align:-0.2155em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.36em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.68333em;&#34;&gt;&lt;span style=&#34;top:-2.904999em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord textrm mtight sizing reset-size6 size3&#34;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.46782999999999997em;&#34;&gt;&lt;span style=&#34;top:-2.7845em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2155em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.125em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord textrm&#34;&gt;X&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, 并不是最淳朴的那种 &amp;quot;所见即所得&amp;quot;. 它处处透露着一种极简主义。高效简洁清晰的同时，又很简单。看起来舒服，语法简单，尤其在处理纯文本上有很大的优势.&lt;/p&gt;
