@@ -13,20 +13,20 @@
     <category term=" React" />
     <category term=" 全栈" />
     <entry>
-        <id>https://polaris-pika-github-io-ltg5.vercel.app/</id>
-        <title></title>
-        <link rel="alternate" href="https://polaris-pika-github-io-ltg5.vercel.app/"/>
+        <id>https://polaris-pika-github-io-ltg5.vercel.app/hexo-%E8%99%9A%E6%8B%9F%E6%9C%BA/</id>
+        <title>虚拟机</title>
+        <link rel="alternate" href="https://polaris-pika-github-io-ltg5.vercel.app/hexo-%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
         <content type="html">&lt;p&gt;今天和桌游群的米娜桑一起去恰了饭，并且看了龙与地下城的电影，我感觉还蛮好看的说实话，然后昨天简单下载了一个虚拟机。&lt;/p&gt;
 &lt;h1 id=&#34;vmware&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vmware&#34;&gt;#&lt;/a&gt; vmware&lt;/h1&gt;
 &lt;h2 id=&#34;vmware16的下载与安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vmware16的下载与安装&#34;&gt;#&lt;/a&gt; vmware16 的下载与安装&lt;/h2&gt;
 &lt;p&gt;我之前跟的那个教程给的和用的是 vmware15.5 的文件，这个版本强烈不推荐用，因为我用它的时候一旦我开启虚拟机的时候他就蓝屏（嘎嘎蓝），我感觉可能的问题是因为自己内核隔离没有关闭（我的还是正在运行）&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/2fcfb7ac9cf087c1391cb024624b1ca.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/2fcfb7ac9cf087c1391cb024624b1ca.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;不过我并没有去解决这个 bug，因为我升级到了 vmware16.0，然后他就解决了....nice！&lt;/p&gt;
 &lt;p&gt;然后这里附上 vmware 的下载链接，当然你要是害怕我分享的是流氓软件也可以去官网自己搜&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;链接：链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVdreko4QWQwQVVGSGNYeHNIQTlpTXc=&#34;&gt;https://pan.baidu.com/s/1WkzJ8Ad0AUFHcXxsHA9iMw&lt;/span&gt; &amp;lt;br/&amp;gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;链接：链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMVdreko4QWQwQVVGSGNYeHNIQTlpTXc=&#34;&gt;https://pan.baidu.com/s/1WkzJ8Ad0AUFHcXxsHA9iMw&lt;/span&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -36,13 +36,13 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;这里需要去开启一下你的一个 BIOS 的虚拟化设备支持，这个百度经验里就有，可以自行百度（我的本来就是开着的，跳过了这步），想看的你的 BIOS 虚拟化是不是开着可以 ctrl+art+del 打开任务管理器，性能 -&amp;gt;cpu 里面看&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/cfcb1cec385299451c2f6f26a10ef1a.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/cfcb1cec385299451c2f6f26a10ef1a.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这里显示已启用，那么你就可以跳过这一步了。&lt;/p&gt;
 &lt;p&gt;&lt;mark&gt;&lt;strong&gt;然后基本就是一个无情下一步的过程，需要注意的点有两个，一个是下载路径要改一下（你要是想下载到 c 盘也可以无脑过）&lt;/strong&gt;&lt;/mark&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/e3a45068150ff2901495d7ac50e7f9b.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/e3a45068150ff2901495d7ac50e7f9b.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;然后这里的两个对勾记得取消掉。&lt;/p&gt;
 &lt;p&gt;安装成功之后点击许可证。（这里借用的 15.5 的图，实际应该是 16.0）&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/fa08b7c8eae8030770d093d51bedce8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/fa08b7c8eae8030770d093d51bedce8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这里你可以选择直接百度一个就好了，基本都是可以用的，当然你要是特别懒我可以给你百度好放这里（你想花钱自己买一个也可以）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ZF3R0-FHED2-M80TY-8QYGC-NPKYF*&lt;/li&gt;
@@ -53,15 +53,15 @@
 &lt;h2 id=&#34;虚拟机的安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#虚拟机的安装&#34;&gt;#&lt;/a&gt; 虚拟机的安装&lt;/h2&gt;
 &lt;p&gt;有很多虚拟机的版本你都是可以选择的，我这里安装的是一个 centos7.6 的老系统学习用（甚至都停服了），所以就只演示这个了，其他版本的系统方法也是类似的，百度找个镜像源下载一个就可以了。&lt;/p&gt;
 &lt;p&gt;VMware 左上角文件 -&amp;gt; 新建虚拟机 -&amp;gt; 先无脑下一步&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/0b7f44f60d2c61f4bdf0b2971988d8e.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/0b7f44f60d2c61f4bdf0b2971988d8e.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;这里你可以选择操作系统和版本，因为我这里的 centos 是 Red Hat 编译重构的一个社区开源版本所以直接选择这个版本就好了。&lt;/p&gt;
 &lt;p&gt;&lt;mark&gt;&lt;strong&gt;下一步让你修改虚拟机的名称和下载位置，有需要的记得改一下&lt;/strong&gt;&lt;/mark&gt;&lt;/p&gt;
 &lt;p&gt;下一步，需要你给你的虚拟机如果你磁盘充足的话。可以直接过，如果不是那么充足的话可以稍微压缩一点空间（扩展也没问题）选择将虚拟磁盘拆分成多个文件 -&amp;gt; 下一步。&lt;/p&gt;
 &lt;p&gt;现在就可以配置虚拟机的硬件内容了，根据自己的电脑实际情况和需要进行选择&lt;/p&gt;
 &lt;h3 id=&#34;配置虚拟机内存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置虚拟机内存&#34;&gt;#&lt;/a&gt; 配置虚拟机内存&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/162399643334d049a39d383be5693a0.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/162399643334d049a39d383be5693a0.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;配置处理器-分配的处理器内核多虚拟机速度快&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置处理器-分配的处理器内核多虚拟机速度快&#34;&gt;#&lt;/a&gt; 配置处理器， &lt;strong&gt;分配的处理器内核多，虚拟机速度&lt;/strong&gt;快&lt;/h3&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/f658b622ba3decf4ab0e3341f900fb4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/f658b622ba3decf4ab0e3341f900fb4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;然后你可以根据自己母机的处理器来实际选择，如果你不知道的话可以根据以下方法查看：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;右键点击左下角的 Window 菜单图标，找到计算机管理&lt;/li&gt;
@@ -75,7 +75,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMWhJUktPb2owbTdXLTZZY2FHd2F5ZHc=&#34;&gt;https://pan.baidu.com/s/1hIRKOoj0m7W-6YcaGwaydw&lt;/span&gt; &amp;lt;br/&amp;gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMWhJUktPb2owbTdXLTZZY2FHd2F5ZHc=&#34;&gt;https://pan.baidu.com/s/1hIRKOoj0m7W-6YcaGwaydw&lt;/span&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -85,12 +85,12 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;点击你刚刚创建好的虚拟机，设备里面选择 CD/DVD（SATA）&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/ab7d0ca940c2db5e283c1ed0af9f365.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/ab7d0ca940c2db5e283c1ed0af9f365.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;选择你刚刚下载的文件的路径就好了&lt;/p&gt;
 &lt;h3 id=&#34;开启虚拟机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开启虚拟机&#34;&gt;#&lt;/a&gt; 开启虚拟机&lt;/h3&gt;
 &lt;p&gt;选择第一个 Install Centos7，语言选择中文（你也可以选择英文）&lt;/p&gt;
 &lt;p&gt;选择安装软件，默认是最小化安装，可以根据你自己的需要进行安装，你安装好之后有需要也可以重新安装，所以问题不大。这里我选择了 GNOME 桌面，并且勾选了两个兼容库和基本开发工具&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;D:/blog/source/img/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/c4f61bf51b5adcf4636e0b61db07f40.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;../../pic/node_img/%E8%99%9A%E6%8B%9F%E6%9C%BA/c4f61bf51b5adcf4636e0b61db07f40.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;安装位置进行分区操作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装位置进行分区操作&#34;&gt;#&lt;/a&gt; 安装位置，进行分区操作&lt;/h3&gt;
 &lt;p&gt;其他存储选项 -&amp;gt; 我要配置分区&lt;/p&gt;
 &lt;ol&gt;
@@ -110,6 +110,9 @@
 &lt;p&gt;这里你可以连接你的在线账号，不连接你可以直接跳过&lt;/p&gt;
 &lt;p&gt;然后你就创建好了！&lt;/p&gt;
 </content>
+        <category term="Linux" scheme="https://polaris-pika-github-io-ltg5.vercel.app/categories/Linux/" />
+        <category term="虚拟机" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/" />
+        <category term="教程" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E6%95%99%E7%A8%8B/" />
         <updated>2023-04-01T06:44:42.468Z</updated>
     </entry>
     <entry>
