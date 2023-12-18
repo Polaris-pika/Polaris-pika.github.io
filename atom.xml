@@ -157,8 +157,8 @@
 &lt;p&gt;今天第一次开始写，这个也不难，一时之间没什么好写的，歇了，猪脑开始过载了&lt;/p&gt;
 </content>
         <category term="语言" scheme="https://polaris-pika-github-io-ltg5.vercel.app/categories/%E8%AF%AD%E8%A8%80/" />
-        <category term="java" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/java/" />
         <category term="笔记" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E7%AC%94%E8%AE%B0/" />
+        <category term="java" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/java/" />
         <updated>2023-03-26T14:43:48.279Z</updated>
     </entry>
     <entry>
@@ -526,8 +526,8 @@ $$
 &lt;/section&gt;
 </content>
         <category term="工具" scheme="https://polaris-pika-github-io-ltg5.vercel.app/categories/tools/" />
-        <category term="笔记" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E7%AC%94%E8%AE%B0/" />
         <category term="Markdown" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/Markdown/" />
+        <category term="笔记" scheme="https://polaris-pika-github-io-ltg5.vercel.app/tags/%E7%AC%94%E8%AE%B0/" />
         <updated>2022-11-03T16:26:56.000Z</updated>
     </entry>
 </feed>
